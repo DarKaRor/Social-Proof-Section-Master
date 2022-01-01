@@ -88,6 +88,7 @@ body::after{
     align-items: flex-start;
     justify-content: center;
     height:100%;
+    margin-right:100px;
 }
 
 .review:nth-child(2){
